@@ -3,8 +3,8 @@
 Welcome to my personal portfolio! This project showcases my skills, projects, and experience in web development, designed using HTML and CSS.
 
 ## Technologies used
-**HTML5: For the structure of website**
-**CSS3: For styling and layout, ensuring a polished design.
+- **HTML5:** For the structure of website**
+- **CSS3:** For styling and layout, ensuring a polished design.
 
 ## Contact
 
